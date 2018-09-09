@@ -1,0 +1,1 @@
+# mcclatchy-mobile-automation
